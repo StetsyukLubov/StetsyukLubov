@@ -1,5 +1,4 @@
-![ logo] (logo.jpg)
-
+![ logo] (logotip git.png)
 
 # Работа с GIT
 ## 1. Проверка наличия  установленного Git
