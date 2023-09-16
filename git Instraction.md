@@ -203,7 +203,7 @@ git  diff,
 
         `` git push origin --delete [Branch Name]``
 
-         
+         Эта Информация очень важная
 
 #  Шпаргалка по основным командам
 ``git add``
